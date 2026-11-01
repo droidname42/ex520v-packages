@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "architecture": "aarch64_cortex-a53",
+  "packages": {
+    "batctl-default": "2026.2-r1",
+    "cgi-io": "2026.07.21~31cb3c89-r1",
+    "coreutils": "9.11-r1",
+    "coreutils-base64": "9.11-r1",
+    "coreutils-nohup": "9.11-r1",
+    "coreutils-timeout": "9.11-r1",
+    "curl": "8.21.0-r1",
+    "haproxy": "3.4.2-r1",
+    "libcurl": "8.21.0-r1",
+    "libev": "4.33-r3",
+    "liblua5.4": "5.4.7-r2",
+    "libnghttp2": "1.70.0-r1",
+    "libsodium": "1.0.20-r1",
+    "libudns": "0.4-r1",
+    "libyaml": "0.2.5-r2",
+    "lyaml": "6.2.7-r2",
+    "microsocks": "1.0.5-r2",
+    "smartdns": "46.1-r1",
+    "unzip": "6.0-r9",
+    "xray-core": "26.3.27-r1"
+  }
+}
